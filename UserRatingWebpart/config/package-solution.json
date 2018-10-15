@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "rating-webpart-client-side-solution",
+    "id": "f349e455-5b06-4596-8e1e-0b7df2c7539e",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/rating-webpart.sppkg"
+  }
+}
